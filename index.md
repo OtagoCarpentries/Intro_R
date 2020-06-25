@@ -1,10 +1,8 @@
-This in-person introduction to R workshop will be run across two sessions of 2 hours. 
+This in-person introduction to R workshop will be run across two sessions of 2 hours and will be taught by Murray Cadzow and Matt Bixley from the Dept of Biochemistry.
 
 
 
-The contents for the workshop is derived from the [Data Carpentry R ecology lessons](https://datacarpentry.org/R-ecology-lesson/).
-
-The workshop will be hands on with attendees following along.
+The contents for this hands on workshop is derived from the [Data Carpentry R ecology lessons](https://datacarpentry.org/R-ecology-lesson/) and is designed specifically to be useful for 4th year students wanting to start using R for data analysis.
 
 
 
@@ -34,6 +32,7 @@ Please choose from either the Tuesday Afternoon stream (12 noon - 2 pm) or the T
 
 ### Tuesday Stream
 
+ <iframe src="https://www.eventbrite.com/tickets-external?eid=110723210102&ref=etckt" frameborder="0" width="100%" height="280px" scrolling="auto"> </iframe>
 
 
 ### Thursday Stream
