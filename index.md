@@ -39,4 +39,7 @@ Ticket is for both Tuesday 14th and Tuesday 21st July, 12 - 2pm)
 
 ### Thursday Stream
 
+
 Ticket is for both Thursday 14th and Thursday 21st July, 10 - 12 noon)
+
+ <iframe src="https://www.eventbrite.com/tickets-external?eid=111234591658&ref=etckt" frameborder="0" width="100%" height="280px" scrolling="auto"> </iframe>
