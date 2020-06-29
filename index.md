@@ -1,3 +1,5 @@
+# Intro to R for Data Analysis
+
 This in-person introduction to R workshop will be run across two sessions of 2 hours and will be taught by Murray Cadzow and Matt Bixley from the Dept of Biochemistry.
 
 
